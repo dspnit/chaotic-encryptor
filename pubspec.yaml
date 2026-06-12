@@ -1,0 +1,14 @@
+name: chaotic_encryptor
+description: A chaotic image encryption application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image: ^4.1.3 # کتابخانه پردازش تصویر متلب شما
+
+flutter:
+  uses-material-design: true
